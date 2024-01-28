@@ -1,0 +1,4 @@
+- 👋 Hi, my name is @Njhin
+- 👀 I like to learn a lot of things, however I generally don't deepen my knowledge too much.
+- 🌱 I am currently learning Java.
+- ⚡ Fun fact: I'm here because of a challenge.
